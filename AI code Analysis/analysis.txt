@@ -1,0 +1,21 @@
+Project: AI vs Human Code Analysis
+
+Problem: Bubble Sort
+
+Human Code:
+- Uses optimization (early stopping if already sorted)
+- More efficient in best-case scenarios
+- Better readability and logic
+
+AI Code:
+- Correct implementation
+- No optimization
+- Performs unnecessary iterations
+
+Comparison:
+- Both produce correct output
+- Human code is more efficient
+- AI code is more generic and less optimized
+
+Conclusion:
+AI-generated code is useful for quick solutions, but it may lack optimization and requires human verification for reliability and efficiency.
